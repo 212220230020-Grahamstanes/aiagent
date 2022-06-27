@@ -35,8 +35,10 @@ The agent should detect the location and suck if the location it is dirty,else i
 The performance is measured with the number of movements and the cleaning action of the agent.
 
 ## PROGRAM
+```
 Developed by: A Graham stanes
 Register  No:  212220230020
+```
 ```python3
 import random
 
